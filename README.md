@@ -7,6 +7,8 @@ Com ele, é possível **registrar entradas e saídas**, acompanhar o **saldo atu
 
 ## 🖼️ Demonstração
 
+**Acesse a aplicação:** [https://growdev-codai-nikel-viniciushiagomartins.vercel.app](https://growdev-codai-nikel-viniciushiagomartins.vercel.app)
+
 ### 🔐 Tela de Login
 ![Login](./public/assets/preview/login.png)
 
@@ -34,6 +36,16 @@ Com ele, é possível **registrar entradas e saídas**, acompanhar o **saldo atu
 - **HTML5 & CSS3**
 - **Styled Components / CSS Modules**
 - **Web Storage API** (localStorage & sessionStorage)
+---
+
+## 🌐 **Deploy na Vercel**
+
+Este projeto está hospedado na **Vercel**, proporcionando:
+- ⚡ **Deploy rápido e automático**
+- 🔒 **SSL gratuito**
+- 🌍 **CDN global**
+- 🚀 **Performance otimizada**
+
 ---
 
 ## ⚙️ Como executar o projeto
