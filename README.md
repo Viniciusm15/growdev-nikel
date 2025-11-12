@@ -8,13 +8,13 @@ Com ele, é possível **registrar entradas e saídas**, acompanhar o **saldo atu
 ## 🖼️ Demonstração
 
 ### 🔐 Tela de Login
-![Login](./login.png)
+![Login](./public/assets/preview/login.png)
 
 ### 🏠 Tela Inicial / Dashboard
-![Home](./home.png)
+![Home](./public/assets/preview/home.png)
 
 ### 📋 Tela de Lançamentos
-![Lançamentos](./transactions.png)
+![Lançamentos](./public/assets/preview/transactions.png)
 
 ---
 
@@ -33,7 +33,7 @@ Com ele, é possível **registrar entradas e saídas**, acompanhar o **saldo atu
 - **JavaScript (ES6+)**
 - **HTML5 & CSS3**
 - **Styled Components / CSS Modules**
-
+- **Web Storage API** (localStorage & sessionStorage)
 ---
 
 ## ⚙️ Como executar o projeto
