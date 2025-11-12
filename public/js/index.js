@@ -63,7 +63,7 @@ function saveAccount(data) {
 }
 
 function saveSession(data, saveSession) {
-    if(saveSession) {
+    if (saveSession) {
         localStorage.setItem("session", data)
     }
 
@@ -80,13 +80,13 @@ function getAccount(key) {
     return "";
 }
 
-function checkLogged () {
-    if(session) {
+function checkLogged() {
+    if (session) {
         sessionStorage.setItem("logged", session);
         logged = session;
     }
 
-    if(logged) {
+    if (logged) {
         saveSession(logged, session);
         window.location.href = "home.html";
     }

@@ -115,7 +115,7 @@ header {
     margin-right: 0px !important;
 }
 
-.row > [class*="col-"] {
+.row>[class*="col-"] {
     padding-left: 4px;
     padding-right: 4px;
 }
