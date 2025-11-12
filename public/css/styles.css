@@ -107,6 +107,7 @@ header {
 .container-lg {
     padding-left: 8px;
     padding-right: 8px;
+    padding-bottom: 75px;
     max-width: 100%;
 }
 
