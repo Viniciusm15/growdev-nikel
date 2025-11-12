@@ -1,1 +1,43 @@
-# growdev-nikel
+# 💰 NiKel
+
+O **NiKel** é uma aplicação web desenvolvida durante o programa **Growdev** (Codaí), com o objetivo de ajudar no **controle financeiro pessoal**.  
+Com ele, é possível **registrar entradas e saídas**, acompanhar o **saldo atual** e **visualizar lançamentos** de forma simples e intuitiva.
+
+---
+
+## 🖼️ Demonstração
+
+### 🔐 Tela de Login
+![Login](./login.png)
+
+### 🏠 Tela Inicial / Dashboard
+![Home](./home.png)
+
+### 📋 Tela de Lançamentos
+![Lançamentos](./transactions.png)
+
+---
+
+## 🚀 Funcionalidades
+
+- ✅ Cadastro e login de usuários  
+- 💵 Registro de **entradas** e **saídas**  
+- 📊 Cálculo automático do **saldo total**  
+- 🗓️ Listagem de **lançamentos financeiros**  
+- 💜 Interface moderna e responsiva  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **Styled Components / CSS Modules**
+
+---
+
+## ⚙️ Como executar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nikel.git
